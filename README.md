@@ -6,16 +6,16 @@
   OmniStack Week 11.0
 </h2>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DebAmorim/omnistack11">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DebAmorim/omniStack_11">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DebAmorim/omnistack11">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DebAmorim/omniStack_11">
   
-  <a href="https://github.com/DebAmorim/omnistack11/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DebAmorim/omnistack11">
+  <a href="https://github.com/DebAmorim/omniStack_11/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DebAmorim/omniStack_11">
   </a>
 
-  <a href="https://github.com/DebAmorim/omnistack11/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/DebAmorim/omnistack11">
+  <a href="https://github.com/DebAmorim/omniStack_11/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/DebAmorim/omniStack_11">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
