@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Be The Hero" title="#bethehero" src="assets/logo.svg" width="250px" />
+    <img alt="Be The Hero" title="#bethehero" src="imagens/logo.svg" width="250px" />
 </h1>
 
 <h2 align="center">
